@@ -56,4 +56,5 @@ For newer RetroArch upstream commits or additional variants, regenerate from sou
 
 ## Tracking
 - RetroArch issue: https://github.com/libretro/RetroArch/issues/17771
+- RetroArch PR: https://github.com/libretro/RetroArch/pull/18758
 - Mupen thread: https://github.com/libretro/mupen64plus-libretro-nx/issues/575
